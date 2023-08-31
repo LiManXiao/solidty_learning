@@ -7,7 +7,7 @@ _oh my gosh，这是斜体字(_  _)_
 这个是<sup>上标</sup>  
 >这个是引用文本  
 
-'''
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -16,7 +16,7 @@ int main()
   printf("Hello World~!");
   return 0;
 }
-'''
+```
 
 
 ### 第三大标题  
